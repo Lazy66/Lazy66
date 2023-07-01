@@ -2,9 +2,9 @@
 
 🔭 I’m currently working on a simple "Song Scroller" to follow text and chords while you're playng your instrument.
 
-📫 How to reach me: nazario.nonni@gmail.com
+📫 How to reach me: nazario.nonni@gmail.com or visit my site: www.nazariononni.it
 
-🌱 I’m currently learning # Symfony vue.js and git
+🌱 I’m currently learning symfony, vue.js and git.
 
 <!--
 **Lazy66/Lazy66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
