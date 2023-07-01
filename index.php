@@ -1,1 +1,2 @@
-﻿Ciao
+<?php 
+echo"﻿Ciao";
